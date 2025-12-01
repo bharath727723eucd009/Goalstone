@@ -1,24 +1,34 @@
-# AI Life Goals Management System
+# Goalstone – AI Life Goals Management System
+
+An AI-powered life goals and milestones planner that helps you transform dreams into achievable roadmaps with personalized guidance across career, finance, wellness, and learning.
 
 A modern web application for managing life goals with AI-powered assistance.
 
-## Features
+---
+
+## 🚀 Features
 
 - User registration and authentication
 - Secure password hashing
 - Persistent user data storage
 - Responsive design
 - Production-ready deployment
+- AI guidance across:
+  - Career
+  - Finance
+  - Wellness
+  - Learning
 
-## Quick Start
+---
 
-### Development
+## ⚙️ Quick Start
 
-1. **Backend**:
-   ```bash
-   cd Backend
-   pip install -r requirements.txt
-   uvicorn app:app --reload --port 8080
+### 🔧 Backend (FastAPI / Python)
+
+```bash
+cd Backend
+pip install -r requirements.txt
+uvicorn app:app --reload --port 8080
    ```
 
 2. **Frontend**:
