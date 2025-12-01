@@ -1,0 +1,139 @@
+{
+  "13564d095259": [
+    {
+      "id": "fb1",
+      "title": "Master JavaScript ES6+",
+      "description": "Learn modern JavaScript features and syntax",
+      "category": "Skill Building",
+      "deadline": "Week 2",
+      "completed": true,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "fb2",
+      "title": "Git Version Control",
+      "description": "Master Git workflows and collaboration",
+      "category": "Skill Building",
+      "deadline": "Week 1",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "fb3",
+      "title": "Portfolio Website",
+      "description": "Build and deploy personal portfolio",
+      "category": "Projects",
+      "deadline": "Week 4",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "fb4",
+      "title": "LinkedIn Optimization",
+      "description": "Update profile with new skills and projects",
+      "category": "Job Search",
+      "deadline": "Week 1",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "fb5",
+      "title": "Coding Practice",
+      "description": "Solve basic algorithmic problems daily",
+      "category": "Interview Prep",
+      "deadline": "Daily",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "sa1",
+      "title": "React Framework",
+      "description": "Build interactive UIs with React",
+      "category": "Skill Building",
+      "deadline": "Week 6",
+      "completed": true,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "sa2",
+      "title": "Database Design",
+      "description": "Learn SQL and database fundamentals",
+      "category": "Skill Building",
+      "deadline": "Week 5",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "sa3",
+      "title": "Full-Stack Application",
+      "description": "Build complete web application with backend",
+      "category": "Projects",
+      "deadline": "Week 8",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "sa4",
+      "title": "Job Applications",
+      "description": "Apply to 5 positions weekly",
+      "category": "Job Search",
+      "deadline": "Ongoing",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "sa5",
+      "title": "Mock Interviews",
+      "description": "Practice technical interviews",
+      "category": "Interview Prep",
+      "deadline": "Week 6",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "mr1",
+      "title": "Cloud Services",
+      "description": "Deploy applications using AWS/Azure",
+      "category": "Skill Building",
+      "deadline": "Week 10",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "mr2",
+      "title": "Testing & CI/CD",
+      "description": "Implement automated testing and deployment",
+      "category": "Skill Building",
+      "deadline": "Week 11",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "mr3",
+      "title": "Production Deployment",
+      "description": "Deploy scalable production application",
+      "category": "Projects",
+      "deadline": "Week 12",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "mr4",
+      "title": "Interview Strategy",
+      "description": "Optimize application and interview approach",
+      "category": "Job Search",
+      "deadline": "Week 10",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    },
+    {
+      "id": "mr5",
+      "title": "System Design",
+      "description": "Learn to design scalable systems",
+      "category": "Interview Prep",
+      "deadline": "Week 11",
+      "completed": false,
+      "created_at": "2025-11-29T17:47:21.601391"
+    }
+  ]
+}

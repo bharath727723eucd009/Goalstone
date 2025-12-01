@@ -1,0 +1,14 @@
+{
+  "30bb48be489c": {
+    "completed_task_ids": [
+      "f2_frontend_4_1",
+      "f1_frontend_4_1"
+    ]
+  },
+  "b64e7524929f": {
+    "completed_task_ids": [
+      "f1_data_4_1",
+      "f2_data_4_1"
+    ]
+  }
+}

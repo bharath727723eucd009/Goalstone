@@ -1,0 +1,47 @@
+version: '3.8'
+
+# Production override for docker-compose.yml
+services:
+  api:
+    build:
+      target: production
+    environment:
+      - LOG_LEVEL=WARNING
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY}
+      - MONGODB_URL=mongodb://${MONGODB_USERNAME}:${MONGODB_PASSWORD}@mongodb:27017/ai_life_goals?authSource=admin
+      - REDIS_URL=redis://:${REDIS_PASSWORD}@redis:6379
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --workers 4
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+    
+  mongodb:
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=${MONGODB_USERNAME}
+      - MONGO_INITDB_ROOT_PASSWORD=${MONGODB_PASSWORD}
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 1G
+    
+  redis:
+    environment:
+      - REDIS_PASSWORD=${REDIS_PASSWORD}
+    command: redis-server /usr/local/etc/redis/redis.conf --requirepass ${REDIS_PASSWORD}
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+        reservations:
+          cpus: '0.25'
+          memory: 256M

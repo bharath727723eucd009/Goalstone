@@ -1,0 +1,220 @@
+{
+  "demo@example.com": {
+    "id": "demo_user",
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "password_hash": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+    "created_at": "2025-11-28T23:57:39.597822"
+  },
+  "nathi@gmail.com": {
+    "id": "a9641499fddd",
+    "name": "Nathi",
+    "email": "nathi@gmail.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "created_at": "2025-11-29T01:22:27.559289",
+    "memory_bank": [
+      {
+        "id": "087ed1bf2761",
+        "timestamp": "2025-11-29T13:56:20.757777",
+        "session_summary": "Session with 1 agents",
+        "goals": [
+          "Get promoted to senior developer",
+          "Improve work-life balance",
+          "Learn cloud technologies"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "aecf1d1a64c4",
+        "timestamp": "2025-11-29T15:14:33.453209",
+        "session_summary": "Session with 1 agents",
+        "goals": [
+          "Get promoted to senior developer",
+          "Improve work-life balance",
+          "Learn cloud technologies"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      }
+    ]
+  },
+  "bharath@gmail.com": {
+    "id": "d93b7ffcdf3e",
+    "name": "Bharath Kumar P",
+    "email": "bharath@gmail.com",
+    "password_hash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "created_at": "2025-11-29T15:27:18.894476",
+    "memory_bank": [
+      {
+        "id": "8233fae38ed9",
+        "timestamp": "2025-11-29T15:29:26.429362",
+        "session_summary": "Session with 0 agents",
+        "goals": [
+          ""
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "edd693331736",
+        "timestamp": "2025-11-29T15:31:11.635700",
+        "session_summary": "Session with 0 agents",
+        "goals": [
+          ""
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "c7734761f3f7",
+        "timestamp": "2025-11-29T15:39:29.302033",
+        "session_summary": "Session with 0 agents",
+        "goals": [
+          "to crack my placements"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "fa414cf8b3a5",
+        "timestamp": "2025-11-29T17:37:20.615596",
+        "session_summary": "Session with 0 agents",
+        "goals": [
+          "build an application"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "ce3422da91ba",
+        "timestamp": "2025-11-29T17:39:56.093716",
+        "session_summary": "Session with 2 agents",
+        "goals": [
+          "buil an apllication"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      }
+    ]
+  },
+  "char@gmail.com": {
+    "id": "13564d095259",
+    "name": "charlie",
+    "email": "char@gmail.com",
+    "password_hash": "8b4381e4f5879a13763de661751952b617552e22dee4a20ab38259a21483477d",
+    "created_at": "2025-11-29T17:45:04.221590"
+  },
+  "bk@gmail.com": {
+    "id": "30bb48be489c",
+    "name": "BK",
+    "email": "bk@gmail.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "created_at": "2025-11-29T18:07:12.045604",
+    "memory_bank": [
+      {
+        "id": "cccd267aa613",
+        "timestamp": "2025-11-29T21:15:42.045817",
+        "session_summary": "Session with 3 agents",
+        "goals": [
+          "get promoted to HR"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "8a6b8a9b4174",
+        "timestamp": "2025-11-29T23:08:14.007479",
+        "session_summary": "Session with 3 agents",
+        "goals": [
+          "get promoted to HR"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "91bda3ec5ec4",
+        "timestamp": "2025-11-29T23:44:48.375938",
+        "session_summary": "Session with 3 agents",
+        "goals": [
+          "get promoted to HR"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "414b314c30d0",
+        "timestamp": "2025-11-30T00:31:58.408030",
+        "session_summary": "Session with 3 agents",
+        "goals": [
+          "To become HR"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "778c1d1a09f8",
+        "timestamp": "2025-11-30T00:40:38.074470",
+        "session_summary": "Session with 3 agents",
+        "goals": [
+          "to become HR"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "d8347a93cd58",
+        "timestamp": "2025-11-30T00:45:21.750803",
+        "session_summary": "Session with 3 agents",
+        "goals": [
+          "to get promoted as HR"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      },
+      {
+        "id": "cd6431cc23ea",
+        "timestamp": "2025-11-30T00:54:23.976576",
+        "session_summary": "Session with 3 agents",
+        "goals": [
+          "Become a HR"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      }
+    ]
+  },
+  "bharathkumarpudumai@gmail.com": {
+    "id": "32cb03eb0a65",
+    "name": "Bharath Kumar P",
+    "email": "bharathkumarpudumai@gmail.com",
+    "password_hash": "33c62dae4bd728d13a201a0986773edced6c4d183f15380bb793eaaa11424414",
+    "created_at": "2025-11-30T11:11:50.114869"
+  },
+  "kiruthikapudumai@gmail.com": {
+    "id": "b64e7524929f",
+    "name": "Kiruthika",
+    "email": "kiruthikapudumai@gmail.com",
+    "password_hash": "02b9642ecfd95647b331316602bfbcb42cb3a5e4844aac9ff83530c9142763ae",
+    "created_at": "2025-11-30T12:50:24.653147",
+    "memory_bank": [
+      {
+        "id": "cd63ef8cb96e",
+        "timestamp": "2025-11-30T12:53:53.606838",
+        "session_summary": "Session with 3 agents",
+        "goals": [
+          "To become HR"
+        ],
+        "key_insights": [],
+        "compacted_results": {}
+      }
+    ]
+  },
+  "bk1@gmail.com": {
+    "id": "46cf14482c66",
+    "name": "Bharathkumar",
+    "email": "bk1@gmail.com",
+    "password_hash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "created_at": "2025-11-30T17:37:58.329324"
+  }
+}

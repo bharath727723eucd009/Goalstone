@@ -1,0 +1,235 @@
+{
+  "13564d095259": {
+    "roadmap": {
+      "tasks": [
+        {
+          "id": "fb1",
+          "title": "Master JavaScript ES6+",
+          "description": "Learn modern JavaScript features and syntax",
+          "phase": "Foundation Building",
+          "week_or_deadline": "Week 2",
+          "category": "Skill Building",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "JavaScript Course",
+              "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+            }
+          ]
+        },
+        {
+          "id": "fb2",
+          "title": "Git Version Control",
+          "description": "Master Git workflows and collaboration",
+          "phase": "Foundation Building",
+          "week_or_deadline": "Week 1",
+          "category": "Skill Building",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "Git Handbook",
+              "url": "https://guides.github.com/introduction/git-handbook/"
+            }
+          ]
+        },
+        {
+          "id": "fb3",
+          "title": "Portfolio Website",
+          "description": "Build and deploy personal portfolio",
+          "phase": "Foundation Building",
+          "week_or_deadline": "Week 4",
+          "category": "Projects",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "GitHub Pages",
+              "url": "https://pages.github.com/"
+            }
+          ]
+        },
+        {
+          "id": "fb4",
+          "title": "LinkedIn Optimization",
+          "description": "Update profile with new skills and projects",
+          "phase": "Foundation Building",
+          "week_or_deadline": "Week 1",
+          "category": "Job Search",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "LinkedIn Guide",
+              "url": "https://linkedin.com/help"
+            }
+          ]
+        },
+        {
+          "id": "fb5",
+          "title": "Coding Practice",
+          "description": "Solve basic algorithmic problems daily",
+          "phase": "Foundation Building",
+          "week_or_deadline": "Daily",
+          "category": "Interview Prep",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "LeetCode Easy",
+              "url": "https://leetcode.com/problemset/"
+            }
+          ]
+        },
+        {
+          "id": "sa1",
+          "title": "React Framework",
+          "description": "Build interactive UIs with React",
+          "phase": "Skill Advancement",
+          "week_or_deadline": "Week 6",
+          "category": "Skill Building",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "React Documentation",
+              "url": "https://react.dev/learn"
+            }
+          ]
+        },
+        {
+          "id": "sa2",
+          "title": "Database Design",
+          "description": "Learn SQL and database fundamentals",
+          "phase": "Skill Advancement",
+          "week_or_deadline": "Week 5",
+          "category": "Skill Building",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "SQL Tutorial",
+              "url": "https://www.w3schools.com/sql/"
+            }
+          ]
+        },
+        {
+          "id": "sa3",
+          "title": "Full-Stack Application",
+          "description": "Build complete web application with backend",
+          "phase": "Skill Advancement",
+          "week_or_deadline": "Week 8",
+          "category": "Projects",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "MERN Stack Guide",
+              "url": "https://www.mongodb.com/mern-stack"
+            }
+          ]
+        },
+        {
+          "id": "sa4",
+          "title": "Job Applications",
+          "description": "Apply to 5 positions weekly",
+          "phase": "Skill Advancement",
+          "week_or_deadline": "Ongoing",
+          "category": "Job Search",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "Job Boards",
+              "url": "https://indeed.com"
+            }
+          ]
+        },
+        {
+          "id": "sa5",
+          "title": "Mock Interviews",
+          "description": "Practice technical interviews",
+          "phase": "Skill Advancement",
+          "week_or_deadline": "Week 6",
+          "category": "Interview Prep",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "Pramp",
+              "url": "https://pramp.com"
+            }
+          ]
+        },
+        {
+          "id": "mr1",
+          "title": "Cloud Services",
+          "description": "Deploy applications using AWS/Azure",
+          "phase": "Market Ready",
+          "week_or_deadline": "Week 10",
+          "category": "Skill Building",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "AWS Free Tier",
+              "url": "https://aws.amazon.com/free/"
+            }
+          ]
+        },
+        {
+          "id": "mr2",
+          "title": "Testing & CI/CD",
+          "description": "Implement automated testing and deployment",
+          "phase": "Market Ready",
+          "week_or_deadline": "Week 11",
+          "category": "Skill Building",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "Jest Documentation",
+              "url": "https://jestjs.io/docs/getting-started"
+            }
+          ]
+        },
+        {
+          "id": "mr3",
+          "title": "Production Deployment",
+          "description": "Deploy scalable production application",
+          "phase": "Market Ready",
+          "week_or_deadline": "Week 12",
+          "category": "Projects",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "Vercel Deployment",
+              "url": "https://vercel.com/docs"
+            }
+          ]
+        },
+        {
+          "id": "mr4",
+          "title": "Interview Strategy",
+          "description": "Optimize application and interview approach",
+          "phase": "Market Ready",
+          "week_or_deadline": "Week 10",
+          "category": "Job Search",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "Interview Tips",
+              "url": "https://www.glassdoor.com/blog/interview-tips/"
+            }
+          ]
+        },
+        {
+          "id": "mr5",
+          "title": "System Design",
+          "description": "Learn to design scalable systems",
+          "phase": "Market Ready",
+          "week_or_deadline": "Week 11",
+          "category": "Interview Prep",
+          "status": "pending",
+          "resources": [
+            {
+              "title": "System Design Primer",
+              "url": "https://github.com/donnemartin/system-design-primer"
+            }
+          ]
+        }
+      ]
+    },
+    "created_at": "2025-11-29T17:47:21.601391",
+    "updated_at": "2025-11-29T17:47:21.601391"
+  }
+}

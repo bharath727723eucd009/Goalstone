@@ -1,0 +1,21 @@
+{
+  "30bb48be489c": {
+    "completed_course_ids": [
+      "Node.js: The Complete Guide",
+      "Database Design and Management",
+      "Python for Web Development",
+      "System Design Interview",
+      "Node.js Developer Course",
+      "React - The Complete Guide",
+      "Advanced CSS Grid & Flexbox"
+    ]
+  },
+  "b64e7524929f": {
+    "completed_course_ids": [
+      "Machine Learning Specialization"
+    ]
+  },
+  "a9641499fddd": {
+    "completed_course_ids": []
+  }
+}

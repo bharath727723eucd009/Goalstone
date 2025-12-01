@@ -1,0 +1,3521 @@
+{
+  "a9641499fddd": [
+    {
+      "id": "5824a866244a",
+      "user_id": "a9641499fddd",
+      "agent_type": "career",
+      "created_at": "2025-11-29T01:24:10.115116",
+      "input_data": {
+        "user_data": {
+          "skills": "math",
+          "experience_years": 1,
+          "location": "coimbatore",
+          "goal": ""
+        },
+        "task_type": "skill_development",
+        "parameters": {}
+      },
+      "output_data": {
+        "current_skills": [
+          "math"
+        ],
+        "priority_skills_to_learn": [
+          "JavaScript",
+          "Python",
+          "React",
+          "Node.js"
+        ],
+        "target_roles": [
+          {
+            "title": "Software Developer",
+            "description": "Develop and maintain software applications"
+          }
+        ],
+        "tasks": [
+          {
+            "id": "fb1",
+            "title": "Master JavaScript ES6+",
+            "description": "Learn modern JavaScript features and syntax",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 2",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "JavaScript Course",
+                "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+              }
+            ]
+          },
+          {
+            "id": "fb2",
+            "title": "Git Version Control",
+            "description": "Master Git workflows and collaboration",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Git Handbook",
+                "url": "https://guides.github.com/introduction/git-handbook/"
+              }
+            ]
+          },
+          {
+            "id": "fb3",
+            "title": "Portfolio Website",
+            "description": "Build and deploy personal portfolio",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 4",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "GitHub Pages",
+                "url": "https://pages.github.com/"
+              }
+            ]
+          },
+          {
+            "id": "fb4",
+            "title": "LinkedIn Optimization",
+            "description": "Update profile with new skills and projects",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LinkedIn Guide",
+                "url": "https://linkedin.com/help"
+              }
+            ]
+          },
+          {
+            "id": "fb5",
+            "title": "Coding Practice",
+            "description": "Solve basic algorithmic problems daily",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Daily",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LeetCode Easy",
+                "url": "https://leetcode.com/problemset/"
+              }
+            ]
+          },
+          {
+            "id": "sa1",
+            "title": "React Framework",
+            "description": "Build interactive UIs with React",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "React Documentation",
+                "url": "https://react.dev/learn"
+              }
+            ]
+          },
+          {
+            "id": "sa2",
+            "title": "Database Design",
+            "description": "Learn SQL and database fundamentals",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 5",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "SQL Tutorial",
+                "url": "https://www.w3schools.com/sql/"
+              }
+            ]
+          },
+          {
+            "id": "sa3",
+            "title": "Full-Stack Application",
+            "description": "Build complete web application with backend",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 8",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "MERN Stack Guide",
+                "url": "https://www.mongodb.com/mern-stack"
+              }
+            ]
+          },
+          {
+            "id": "sa4",
+            "title": "Job Applications",
+            "description": "Apply to 5 positions weekly",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Ongoing",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Job Boards",
+                "url": "https://indeed.com"
+              }
+            ]
+          },
+          {
+            "id": "sa5",
+            "title": "Mock Interviews",
+            "description": "Practice technical interviews",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Pramp",
+                "url": "https://pramp.com"
+              }
+            ]
+          },
+          {
+            "id": "mr1",
+            "title": "Cloud Services",
+            "description": "Deploy applications using AWS/Azure",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "AWS Free Tier",
+                "url": "https://aws.amazon.com/free/"
+              }
+            ]
+          },
+          {
+            "id": "mr2",
+            "title": "Testing & CI/CD",
+            "description": "Implement automated testing and deployment",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Jest Documentation",
+                "url": "https://jestjs.io/docs/getting-started"
+              }
+            ]
+          },
+          {
+            "id": "mr3",
+            "title": "Production Deployment",
+            "description": "Deploy scalable production application",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 12",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Vercel Deployment",
+                "url": "https://vercel.com/docs"
+              }
+            ]
+          },
+          {
+            "id": "mr4",
+            "title": "Interview Strategy",
+            "description": "Optimize application and interview approach",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Interview Tips",
+                "url": "https://www.glassdoor.com/blog/interview-tips/"
+              }
+            ]
+          },
+          {
+            "id": "mr5",
+            "title": "System Design",
+            "description": "Learn to design scalable systems",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "System Design Primer",
+                "url": "https://github.com/donnemartin/system-design-primer"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "55f22935cba5",
+      "user_id": "a9641499fddd",
+      "agent_type": "career",
+      "created_at": "2025-11-29T13:42:45.759118",
+      "input_data": {
+        "user_data": {
+          "skills": "java",
+          "experience_years": 5,
+          "location": "coimabtore",
+          "goal": ""
+        },
+        "task_type": "general",
+        "parameters": {}
+      },
+      "output_data": {
+        "current_skills": [
+          "java"
+        ],
+        "priority_skills_to_learn": [
+          "JavaScript",
+          "Python",
+          "React",
+          "Node.js"
+        ],
+        "target_roles": [
+          {
+            "title": "Software Developer",
+            "description": "Develop and maintain software applications"
+          }
+        ],
+        "tasks": [
+          {
+            "id": "fb1",
+            "title": "Master JavaScript ES6+",
+            "description": "Learn modern JavaScript features and syntax",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 2",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "JavaScript Course",
+                "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+              }
+            ]
+          },
+          {
+            "id": "fb2",
+            "title": "Git Version Control",
+            "description": "Master Git workflows and collaboration",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Git Handbook",
+                "url": "https://guides.github.com/introduction/git-handbook/"
+              }
+            ]
+          },
+          {
+            "id": "fb3",
+            "title": "Portfolio Website",
+            "description": "Build and deploy personal portfolio",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 4",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "GitHub Pages",
+                "url": "https://pages.github.com/"
+              }
+            ]
+          },
+          {
+            "id": "fb4",
+            "title": "LinkedIn Optimization",
+            "description": "Update profile with new skills and projects",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LinkedIn Guide",
+                "url": "https://linkedin.com/help"
+              }
+            ]
+          },
+          {
+            "id": "fb5",
+            "title": "Coding Practice",
+            "description": "Solve basic algorithmic problems daily",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Daily",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LeetCode Easy",
+                "url": "https://leetcode.com/problemset/"
+              }
+            ]
+          },
+          {
+            "id": "sa1",
+            "title": "React Framework",
+            "description": "Build interactive UIs with React",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "React Documentation",
+                "url": "https://react.dev/learn"
+              }
+            ]
+          },
+          {
+            "id": "sa2",
+            "title": "Database Design",
+            "description": "Learn SQL and database fundamentals",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 5",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "SQL Tutorial",
+                "url": "https://www.w3schools.com/sql/"
+              }
+            ]
+          },
+          {
+            "id": "sa3",
+            "title": "Full-Stack Application",
+            "description": "Build complete web application with backend",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 8",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "MERN Stack Guide",
+                "url": "https://www.mongodb.com/mern-stack"
+              }
+            ]
+          },
+          {
+            "id": "sa4",
+            "title": "Job Applications",
+            "description": "Apply to 5 positions weekly",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Ongoing",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Job Boards",
+                "url": "https://indeed.com"
+              }
+            ]
+          },
+          {
+            "id": "sa5",
+            "title": "Mock Interviews",
+            "description": "Practice technical interviews",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Pramp",
+                "url": "https://pramp.com"
+              }
+            ]
+          },
+          {
+            "id": "mr1",
+            "title": "Cloud Services",
+            "description": "Deploy applications using AWS/Azure",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "AWS Free Tier",
+                "url": "https://aws.amazon.com/free/"
+              }
+            ]
+          },
+          {
+            "id": "mr2",
+            "title": "Testing & CI/CD",
+            "description": "Implement automated testing and deployment",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Jest Documentation",
+                "url": "https://jestjs.io/docs/getting-started"
+              }
+            ]
+          },
+          {
+            "id": "mr3",
+            "title": "Production Deployment",
+            "description": "Deploy scalable production application",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 12",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Vercel Deployment",
+                "url": "https://vercel.com/docs"
+              }
+            ]
+          },
+          {
+            "id": "mr4",
+            "title": "Interview Strategy",
+            "description": "Optimize application and interview approach",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Interview Tips",
+                "url": "https://www.glassdoor.com/blog/interview-tips/"
+              }
+            ]
+          },
+          {
+            "id": "mr5",
+            "title": "System Design",
+            "description": "Learn to design scalable systems",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "System Design Primer",
+                "url": "https://github.com/donnemartin/system-design-primer"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "c52d99209d3c",
+      "user_id": "a9641499fddd",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T13:56:20.752101",
+      "input_data": {
+        "user_goals": [
+          "Get promoted to senior developer",
+          "Improve work-life balance",
+          "Learn cloud technologies",
+          "get placed in mnc company",
+          ""
+        ],
+        "user_data": {
+          "skills": [
+            "Python",
+            "JavaScript"
+          ],
+          "experience_years": 3,
+          "current_role": "Software Developer",
+          "age": 28,
+          "interests": [
+            "Cloud Computing",
+            "AI/ML"
+          ],
+          "income": 75000,
+          "expenses": 3000,
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "wellness": {
+          "recommendation": "\ud83c\udfcb\ufe0f **Comprehensive Wellness Analysis**\n\n**Health Status**: \ud83d\udfe2 OPTIMAL - Maintain current weight with balanced nutrition\n**BMI**: 24.2 (Target: 18.5-24.9)\n**Weight Goal**: +-6.4 kg to reach optimal\n\n**Metabolic Profile**:\n\u2022 BMR: 1628 calories/day\n\u2022 Daily Needs: 2523 calories\n\u2022 Target Intake: 2523 calories\n\n**Age Factor**: \u26a1 Prime fitness years! Optimal strength and endurance potential\n**Recovery Time**: 48-72 hours\n\n**Goal Analysis**: General fitness and health maintenance",
+          "weekly_plan": [
+            "\u2696\ufe0f Monday: Balanced Cardio (30 min) + Strength (20 min)",
+            "\ud83e\uddd8 Tuesday: Yoga Flow (45 min) - Flexibility & mindfulness",
+            "\ud83c\udfc3 Wednesday: Moderate Cardio (35 min) + Core work",
+            "\ud83c\udfcb\ufe0f Thursday: Full Body Strength Training (40 min)",
+            "\ud83d\udd04 Friday: Functional Fitness - Real-world movements",
+            "\ud83c\udf33 Saturday: Outdoor Activity - Hiking, cycling, or sports",
+            "\ud83d\ude34 Sunday: Gentle Stretching + Recovery"
+          ]
+        }
+      },
+      "execution_time": 0.022167,
+      "errors": {
+        "career": "No module named 'aiohttp'",
+        "learning": "attempted relative import beyond top-level package"
+      }
+    },
+    {
+      "id": "a4cd5c4708df",
+      "user_id": "a9641499fddd",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T15:14:33.436983",
+      "input_data": {
+        "user_goals": [
+          "Get promoted to senior developer",
+          "Improve work-life balance",
+          "Learn cloud technologies"
+        ],
+        "user_data": {
+          "skills": [
+            "Python",
+            "JavaScript"
+          ],
+          "experience_years": 3,
+          "current_role": "Software Developer",
+          "age": 28,
+          "interests": [
+            "Cloud Computing",
+            "AI/ML"
+          ],
+          "income": 75000,
+          "expenses": 3000,
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "wellness": {
+          "recommendation": "\ud83c\udfcb\ufe0f **Comprehensive Wellness Analysis**\n\n**Health Status**: \ud83d\udfe2 OPTIMAL - Maintain current weight with balanced nutrition\n**BMI**: 24.2 (Target: 18.5-24.9)\n**Weight Goal**: +-6.4 kg to reach optimal\n\n**Metabolic Profile**:\n\u2022 BMR: 1628 calories/day\n\u2022 Daily Needs: 2523 calories\n\u2022 Target Intake: 2523 calories\n\n**Age Factor**: \u26a1 Prime fitness years! Optimal strength and endurance potential\n**Recovery Time**: 48-72 hours\n\n**Goal Analysis**: General fitness and health maintenance",
+          "weekly_plan": [
+            "\u2696\ufe0f Monday: Balanced Cardio (30 min) + Strength (20 min)",
+            "\ud83e\uddd8 Tuesday: Yoga Flow (45 min) - Flexibility & mindfulness",
+            "\ud83c\udfc3 Wednesday: Moderate Cardio (35 min) + Core work",
+            "\ud83c\udfcb\ufe0f Thursday: Full Body Strength Training (40 min)",
+            "\ud83d\udd04 Friday: Functional Fitness - Real-world movements",
+            "\ud83c\udf33 Saturday: Outdoor Activity - Hiking, cycling, or sports",
+            "\ud83d\ude34 Sunday: Gentle Stretching + Recovery"
+          ]
+        }
+      },
+      "execution_time": 0.024191,
+      "errors": {
+        "career": "No module named 'aiohttp'",
+        "learning": "attempted relative import beyond top-level package"
+      }
+    }
+  ],
+  "demo_user": [
+    {
+      "id": "42bb623afdd2",
+      "user_id": "demo_user",
+      "agent_type": "career",
+      "created_at": "2025-11-29T13:15:35.655321",
+      "input_data": {
+        "user_data": {
+          "skills": [
+            "Python",
+            "JavaScript",
+            "SQL"
+          ],
+          "experience_years": 3,
+          "current_role": "Software Developer"
+        },
+        "user_goals": [
+          "Get promoted to Senior Software Engineer within 12 months",
+          "Lose 15 pounds and run a 5K race",
+          "Master React and AWS cloud technologies"
+        ],
+        "task_type": "milestone_analysis"
+      },
+      "output_data": {
+        "current_skills": [
+          "Python",
+          "JavaScript",
+          "SQL"
+        ],
+        "priority_skills_to_learn": [
+          "React",
+          "Node.js",
+          "Git",
+          "AWS"
+        ],
+        "target_roles": [
+          {
+            "title": "Senior Full Stack Developer",
+            "description": "Lead development projects and mentor junior developers"
+          },
+          {
+            "title": "Data Analyst",
+            "description": "Analyze data trends and create insights for business decisions"
+          }
+        ],
+        "tasks": [
+          {
+            "id": "fb1",
+            "title": "Master JavaScript ES6+",
+            "description": "Learn modern JavaScript features and syntax",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 2",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "JavaScript Course",
+                "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+              }
+            ]
+          },
+          {
+            "id": "fb2",
+            "title": "Git Version Control",
+            "description": "Master Git workflows and collaboration",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Git Handbook",
+                "url": "https://guides.github.com/introduction/git-handbook/"
+              }
+            ]
+          },
+          {
+            "id": "fb3",
+            "title": "Portfolio Website",
+            "description": "Build and deploy personal portfolio",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 4",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "GitHub Pages",
+                "url": "https://pages.github.com/"
+              }
+            ]
+          },
+          {
+            "id": "fb4",
+            "title": "LinkedIn Optimization",
+            "description": "Update profile with new skills and projects",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LinkedIn Guide",
+                "url": "https://linkedin.com/help"
+              }
+            ]
+          },
+          {
+            "id": "fb5",
+            "title": "Coding Practice",
+            "description": "Solve basic algorithmic problems daily",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Daily",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LeetCode Easy",
+                "url": "https://leetcode.com/problemset/"
+              }
+            ]
+          },
+          {
+            "id": "sa1",
+            "title": "React Framework",
+            "description": "Build interactive UIs with React",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "React Documentation",
+                "url": "https://react.dev/learn"
+              }
+            ]
+          },
+          {
+            "id": "sa2",
+            "title": "Database Design",
+            "description": "Learn SQL and database fundamentals",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 5",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "SQL Tutorial",
+                "url": "https://www.w3schools.com/sql/"
+              }
+            ]
+          },
+          {
+            "id": "sa3",
+            "title": "Full-Stack Application",
+            "description": "Build complete web application with backend",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 8",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "MERN Stack Guide",
+                "url": "https://www.mongodb.com/mern-stack"
+              }
+            ]
+          },
+          {
+            "id": "sa4",
+            "title": "Job Applications",
+            "description": "Apply to 5 positions weekly",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Ongoing",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Job Boards",
+                "url": "https://indeed.com"
+              }
+            ]
+          },
+          {
+            "id": "sa5",
+            "title": "Mock Interviews",
+            "description": "Practice technical interviews",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Pramp",
+                "url": "https://pramp.com"
+              }
+            ]
+          },
+          {
+            "id": "mr1",
+            "title": "Cloud Services",
+            "description": "Deploy applications using AWS/Azure",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "AWS Free Tier",
+                "url": "https://aws.amazon.com/free/"
+              }
+            ]
+          },
+          {
+            "id": "mr2",
+            "title": "Testing & CI/CD",
+            "description": "Implement automated testing and deployment",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Jest Documentation",
+                "url": "https://jestjs.io/docs/getting-started"
+              }
+            ]
+          },
+          {
+            "id": "mr3",
+            "title": "Production Deployment",
+            "description": "Deploy scalable production application",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 12",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Vercel Deployment",
+                "url": "https://vercel.com/docs"
+              }
+            ]
+          },
+          {
+            "id": "mr4",
+            "title": "Interview Strategy",
+            "description": "Optimize application and interview approach",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Interview Tips",
+                "url": "https://www.glassdoor.com/blog/interview-tips/"
+              }
+            ]
+          },
+          {
+            "id": "mr5",
+            "title": "System Design",
+            "description": "Learn to design scalable systems",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "System Design Primer",
+                "url": "https://github.com/donnemartin/system-design-primer"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "42707387fb90",
+      "user_id": "demo_user",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T13:15:35.662750",
+      "input_data": {
+        "user_goals": [
+          "Get promoted to Senior Software Engineer within 12 months",
+          "Lose 15 pounds and run a 5K race",
+          "Master React and AWS cloud technologies"
+        ],
+        "user_data": {
+          "skills": [
+            "Python",
+            "JavaScript",
+            "SQL"
+          ],
+          "experience_years": 3,
+          "current_role": "Software Developer"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {}
+      },
+      "output_data": {
+        "career": {
+          "current_skills": [
+            "Python",
+            "JavaScript",
+            "SQL"
+          ],
+          "priority_skills_to_learn": [
+            "React",
+            "Node.js",
+            "Git",
+            "AWS"
+          ],
+          "target_roles": [
+            {
+              "title": "Senior Full Stack Developer",
+              "description": "Lead development projects and mentor junior developers"
+            },
+            {
+              "title": "Data Analyst",
+              "description": "Analyze data trends and create insights for business decisions"
+            }
+          ],
+          "tasks": [
+            {
+              "id": "fb1",
+              "title": "Master JavaScript ES6+",
+              "description": "Learn modern JavaScript features and syntax",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Week 2",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "JavaScript Course",
+                  "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+                }
+              ]
+            },
+            {
+              "id": "fb2",
+              "title": "Git Version Control",
+              "description": "Master Git workflows and collaboration",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Week 1",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Git Handbook",
+                  "url": "https://guides.github.com/introduction/git-handbook/"
+                }
+              ]
+            },
+            {
+              "id": "fb3",
+              "title": "Portfolio Website",
+              "description": "Build and deploy personal portfolio",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Week 4",
+              "category": "Projects",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "GitHub Pages",
+                  "url": "https://pages.github.com/"
+                }
+              ]
+            },
+            {
+              "id": "fb4",
+              "title": "LinkedIn Optimization",
+              "description": "Update profile with new skills and projects",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Week 1",
+              "category": "Job Search",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "LinkedIn Guide",
+                  "url": "https://linkedin.com/help"
+                }
+              ]
+            },
+            {
+              "id": "fb5",
+              "title": "Coding Practice",
+              "description": "Solve basic algorithmic problems daily",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Daily",
+              "category": "Interview Prep",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "LeetCode Easy",
+                  "url": "https://leetcode.com/problemset/"
+                }
+              ]
+            },
+            {
+              "id": "sa1",
+              "title": "React Framework",
+              "description": "Build interactive UIs with React",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Week 6",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "React Documentation",
+                  "url": "https://react.dev/learn"
+                }
+              ]
+            },
+            {
+              "id": "sa2",
+              "title": "Database Design",
+              "description": "Learn SQL and database fundamentals",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Week 5",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "SQL Tutorial",
+                  "url": "https://www.w3schools.com/sql/"
+                }
+              ]
+            },
+            {
+              "id": "sa3",
+              "title": "Full-Stack Application",
+              "description": "Build complete web application with backend",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Week 8",
+              "category": "Projects",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "MERN Stack Guide",
+                  "url": "https://www.mongodb.com/mern-stack"
+                }
+              ]
+            },
+            {
+              "id": "sa4",
+              "title": "Job Applications",
+              "description": "Apply to 5 positions weekly",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Ongoing",
+              "category": "Job Search",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Job Boards",
+                  "url": "https://indeed.com"
+                }
+              ]
+            },
+            {
+              "id": "sa5",
+              "title": "Mock Interviews",
+              "description": "Practice technical interviews",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Week 6",
+              "category": "Interview Prep",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Pramp",
+                  "url": "https://pramp.com"
+                }
+              ]
+            },
+            {
+              "id": "mr1",
+              "title": "Cloud Services",
+              "description": "Deploy applications using AWS/Azure",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 10",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "AWS Free Tier",
+                  "url": "https://aws.amazon.com/free/"
+                }
+              ]
+            },
+            {
+              "id": "mr2",
+              "title": "Testing & CI/CD",
+              "description": "Implement automated testing and deployment",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 11",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Jest Documentation",
+                  "url": "https://jestjs.io/docs/getting-started"
+                }
+              ]
+            },
+            {
+              "id": "mr3",
+              "title": "Production Deployment",
+              "description": "Deploy scalable production application",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 12",
+              "category": "Projects",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Vercel Deployment",
+                  "url": "https://vercel.com/docs"
+                }
+              ]
+            },
+            {
+              "id": "mr4",
+              "title": "Interview Strategy",
+              "description": "Optimize application and interview approach",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 10",
+              "category": "Job Search",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Interview Tips",
+                  "url": "https://www.glassdoor.com/blog/interview-tips/"
+                }
+              ]
+            },
+            {
+              "id": "mr5",
+              "title": "System Design",
+              "description": "Learn to design scalable systems",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 11",
+              "category": "Interview Prep",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "System Design Primer",
+                  "url": "https://github.com/donnemartin/system-design-primer"
+                }
+              ]
+            }
+          ]
+        },
+        "wellness": {
+          "recommendation": "\ud83c\udfcb\ufe0f **Comprehensive Wellness Analysis**\n\n**Health Status**: \ud83d\udfe2 OPTIMAL - Maintain current weight with balanced nutrition\n**BMI**: 24.2 (Target: 18.5-24.9)\n**Weight Goal**: +-6.4 kg to reach optimal\n\n**Metabolic Profile**:\n\u2022 BMR: 1618 calories/day\n\u2022 Daily Needs: 2507 calories\n\u2022 Target Intake: 2507 calories\n\n**Age Factor**: \u26a1 Prime fitness years! Optimal strength and endurance potential\n**Recovery Time**: 48-72 hours\n\n**Goal Analysis**: General fitness and health maintenance",
+          "weekly_plan": [
+            "\u2696\ufe0f Monday: Balanced Cardio (30 min) + Strength (20 min)",
+            "\ud83e\uddd8 Tuesday: Yoga Flow (45 min) - Flexibility & mindfulness",
+            "\ud83c\udfc3 Wednesday: Moderate Cardio (35 min) + Core work",
+            "\ud83c\udfcb\ufe0f Thursday: Full Body Strength Training (40 min)",
+            "\ud83d\udd04 Friday: Functional Fitness - Real-world movements",
+            "\ud83c\udf33 Saturday: Outdoor Activity - Hiking, cycling, or sports",
+            "\ud83d\ude34 Sunday: Gentle Stretching + Recovery"
+          ]
+        },
+        "learning": {
+          "recommendation": "\ud83c\udf93 **Personalized Learning Strategy**\n\n**Skill Assessment**: \ud83c\udf31 BEGINNER - Starting your tech journey\n**Learning Path**: Foundation Building\n**Time Commitment**: \u26a1 FOCUSED - Steady progress with good momentum\n**Estimated Timeline**: 3-4 months per major skill\n**Market Value**: \ud83d\udcb5 MODERATE demand skills\n\n**Learning Style**: \ud83d\udd27 Hands-on learner: Build projects immediately, learn by doing\n\n**Current Portfolio**: Clean slate - unlimited potential!\n**Target Interests**: Explore trending technologies",
+          "course_suggestions": [
+            "\ud83c\udf86 CS50 Introduction to Computer Science (Harvard) - World-class foundation [100 hours]",
+            "\ud83d\udc0d Python for Everybody (Coursera) - Beginner-friendly programming [40 hours]",
+            "\ud83c\udf10 The Odin Project - Full-stack web development [600+ hours]",
+            "\ud83d\udcf1 Swift Playgrounds (Apple) - iOS development basics [20 hours]"
+          ]
+        }
+      },
+      "execution_time": 0.0,
+      "errors": {}
+    }
+  ],
+  "d93b7ffcdf3e": [
+    {
+      "id": "5ccfd56bbc25",
+      "user_id": "d93b7ffcdf3e",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T15:29:26.421328",
+      "input_data": {
+        "user_goals": [
+          ""
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "",
+          "current_role": "",
+          "age": "",
+          "interests": [],
+          "income": "",
+          "expenses": "",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {},
+      "execution_time": 0.010142,
+      "errors": {
+        "career": "No module named 'aiohttp'",
+        "wellness": "unsupported operand type(s) for -: 'float' and 'str'",
+        "learning": "attempted relative import beyond top-level package"
+      }
+    },
+    {
+      "id": "d6f8eb60c4b5",
+      "user_id": "d93b7ffcdf3e",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T15:31:11.621509",
+      "input_data": {
+        "user_goals": [
+          ""
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "",
+          "current_role": "",
+          "age": "",
+          "interests": [],
+          "income": "",
+          "expenses": "",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {},
+      "execution_time": 0.007085,
+      "errors": {
+        "career": "No module named 'aiohttp'",
+        "wellness": "unsupported operand type(s) for -: 'float' and 'str'",
+        "learning": "attempted relative import beyond top-level package"
+      }
+    },
+    {
+      "id": "c5d511d63699",
+      "user_id": "d93b7ffcdf3e",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T15:39:29.293275",
+      "input_data": {
+        "user_goals": [
+          "to crack my placements"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "2",
+          "current_role": "backend developer",
+          "age": "18",
+          "interests": [],
+          "income": "100000",
+          "expenses": "4999",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {},
+      "execution_time": 0.006991,
+      "errors": {
+        "career": "No module named 'aiohttp'",
+        "wellness": "unsupported operand type(s) for -: 'float' and 'str'",
+        "learning": "attempted relative import beyond top-level package"
+      }
+    },
+    {
+      "id": "a1d9eeb3cb43",
+      "user_id": "d93b7ffcdf3e",
+      "agent_type": "career",
+      "created_at": "2025-11-29T17:36:02.325464",
+      "input_data": {
+        "user_data": {
+          "skills": "java",
+          "experience_years": 3,
+          "location": "coimbatore",
+          "goal": ""
+        },
+        "task_type": "general",
+        "parameters": {}
+      },
+      "output_data": {
+        "current_skills": [
+          "java"
+        ],
+        "priority_skills_to_learn": [
+          "JavaScript",
+          "Python",
+          "React",
+          "Node.js"
+        ],
+        "target_roles": [
+          {
+            "title": "Software Developer",
+            "description": "Develop and maintain software applications"
+          }
+        ],
+        "tasks": [
+          {
+            "id": "fb1",
+            "title": "Master JavaScript ES6+",
+            "description": "Learn modern JavaScript features and syntax",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 2",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "JavaScript Course",
+                "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+              }
+            ]
+          },
+          {
+            "id": "fb2",
+            "title": "Git Version Control",
+            "description": "Master Git workflows and collaboration",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Git Handbook",
+                "url": "https://guides.github.com/introduction/git-handbook/"
+              }
+            ]
+          },
+          {
+            "id": "fb3",
+            "title": "Portfolio Website",
+            "description": "Build and deploy personal portfolio",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 4",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "GitHub Pages",
+                "url": "https://pages.github.com/"
+              }
+            ]
+          },
+          {
+            "id": "fb4",
+            "title": "LinkedIn Optimization",
+            "description": "Update profile with new skills and projects",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LinkedIn Guide",
+                "url": "https://linkedin.com/help"
+              }
+            ]
+          },
+          {
+            "id": "fb5",
+            "title": "Coding Practice",
+            "description": "Solve basic algorithmic problems daily",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Daily",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LeetCode Easy",
+                "url": "https://leetcode.com/problemset/"
+              }
+            ]
+          },
+          {
+            "id": "sa1",
+            "title": "React Framework",
+            "description": "Build interactive UIs with React",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "React Documentation",
+                "url": "https://react.dev/learn"
+              }
+            ]
+          },
+          {
+            "id": "sa2",
+            "title": "Database Design",
+            "description": "Learn SQL and database fundamentals",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 5",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "SQL Tutorial",
+                "url": "https://www.w3schools.com/sql/"
+              }
+            ]
+          },
+          {
+            "id": "sa3",
+            "title": "Full-Stack Application",
+            "description": "Build complete web application with backend",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 8",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "MERN Stack Guide",
+                "url": "https://www.mongodb.com/mern-stack"
+              }
+            ]
+          },
+          {
+            "id": "sa4",
+            "title": "Job Applications",
+            "description": "Apply to 5 positions weekly",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Ongoing",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Job Boards",
+                "url": "https://indeed.com"
+              }
+            ]
+          },
+          {
+            "id": "sa5",
+            "title": "Mock Interviews",
+            "description": "Practice technical interviews",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Pramp",
+                "url": "https://pramp.com"
+              }
+            ]
+          },
+          {
+            "id": "mr1",
+            "title": "Cloud Services",
+            "description": "Deploy applications using AWS/Azure",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "AWS Free Tier",
+                "url": "https://aws.amazon.com/free/"
+              }
+            ]
+          },
+          {
+            "id": "mr2",
+            "title": "Testing & CI/CD",
+            "description": "Implement automated testing and deployment",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Jest Documentation",
+                "url": "https://jestjs.io/docs/getting-started"
+              }
+            ]
+          },
+          {
+            "id": "mr3",
+            "title": "Production Deployment",
+            "description": "Deploy scalable production application",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 12",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Vercel Deployment",
+                "url": "https://vercel.com/docs"
+              }
+            ]
+          },
+          {
+            "id": "mr4",
+            "title": "Interview Strategy",
+            "description": "Optimize application and interview approach",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Interview Tips",
+                "url": "https://www.glassdoor.com/blog/interview-tips/"
+              }
+            ]
+          },
+          {
+            "id": "mr5",
+            "title": "System Design",
+            "description": "Learn to design scalable systems",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "System Design Primer",
+                "url": "https://github.com/donnemartin/system-design-primer"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "133791ef3f7f",
+      "user_id": "d93b7ffcdf3e",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T17:37:20.599397",
+      "input_data": {
+        "user_goals": [
+          "build an application"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "2",
+          "current_role": "software developre",
+          "age": "18",
+          "interests": [],
+          "income": "150000",
+          "expenses": "1998",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {},
+      "execution_time": 0.006845,
+      "errors": {
+        "career": "No module named 'aiohttp'",
+        "wellness": "unsupported operand type(s) for -: 'float' and 'str'",
+        "learning": "attempted relative import beyond top-level package"
+      }
+    },
+    {
+      "id": "fab5f0f1076d",
+      "user_id": "d93b7ffcdf3e",
+      "agent_type": "career",
+      "created_at": "2025-11-29T17:39:56.067848",
+      "input_data": {
+        "user_data": {
+          "skills": [],
+          "experience_years": "1",
+          "current_role": "backend developer",
+          "age": "18",
+          "interests": [],
+          "income": "50000",
+          "expenses": "2000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "user_goals": [
+          "buil an apllication"
+        ],
+        "time_horizon": "6_months",
+        "priority": "high",
+        "user_memory": "User has 4 previous sessions",
+        "task_type": "milestone_analysis"
+      },
+      "output_data": {
+        "current_skills": [],
+        "priority_skills_to_learn": [
+          "JavaScript",
+          "Python",
+          "React",
+          "Node.js"
+        ],
+        "target_roles": [
+          {
+            "title": "Software Developer",
+            "description": "Develop and maintain software applications"
+          }
+        ],
+        "tasks": [
+          {
+            "id": "fb1",
+            "title": "Master JavaScript ES6+",
+            "description": "Learn modern JavaScript features and syntax",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 2",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "JavaScript Course",
+                "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+              }
+            ]
+          },
+          {
+            "id": "fb2",
+            "title": "Git Version Control",
+            "description": "Master Git workflows and collaboration",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Git Handbook",
+                "url": "https://guides.github.com/introduction/git-handbook/"
+              }
+            ]
+          },
+          {
+            "id": "fb3",
+            "title": "Portfolio Website",
+            "description": "Build and deploy personal portfolio",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 4",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "GitHub Pages",
+                "url": "https://pages.github.com/"
+              }
+            ]
+          },
+          {
+            "id": "fb4",
+            "title": "LinkedIn Optimization",
+            "description": "Update profile with new skills and projects",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LinkedIn Guide",
+                "url": "https://linkedin.com/help"
+              }
+            ]
+          },
+          {
+            "id": "fb5",
+            "title": "Coding Practice",
+            "description": "Solve basic algorithmic problems daily",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Daily",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LeetCode Easy",
+                "url": "https://leetcode.com/problemset/"
+              }
+            ]
+          },
+          {
+            "id": "sa1",
+            "title": "React Framework",
+            "description": "Build interactive UIs with React",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "React Documentation",
+                "url": "https://react.dev/learn"
+              }
+            ]
+          },
+          {
+            "id": "sa2",
+            "title": "Database Design",
+            "description": "Learn SQL and database fundamentals",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 5",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "SQL Tutorial",
+                "url": "https://www.w3schools.com/sql/"
+              }
+            ]
+          },
+          {
+            "id": "sa3",
+            "title": "Full-Stack Application",
+            "description": "Build complete web application with backend",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 8",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "MERN Stack Guide",
+                "url": "https://www.mongodb.com/mern-stack"
+              }
+            ]
+          },
+          {
+            "id": "sa4",
+            "title": "Job Applications",
+            "description": "Apply to 5 positions weekly",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Ongoing",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Job Boards",
+                "url": "https://indeed.com"
+              }
+            ]
+          },
+          {
+            "id": "sa5",
+            "title": "Mock Interviews",
+            "description": "Practice technical interviews",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Pramp",
+                "url": "https://pramp.com"
+              }
+            ]
+          },
+          {
+            "id": "mr1",
+            "title": "Cloud Services",
+            "description": "Deploy applications using AWS/Azure",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "AWS Free Tier",
+                "url": "https://aws.amazon.com/free/"
+              }
+            ]
+          },
+          {
+            "id": "mr2",
+            "title": "Testing & CI/CD",
+            "description": "Implement automated testing and deployment",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Jest Documentation",
+                "url": "https://jestjs.io/docs/getting-started"
+              }
+            ]
+          },
+          {
+            "id": "mr3",
+            "title": "Production Deployment",
+            "description": "Deploy scalable production application",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 12",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Vercel Deployment",
+                "url": "https://vercel.com/docs"
+              }
+            ]
+          },
+          {
+            "id": "mr4",
+            "title": "Interview Strategy",
+            "description": "Optimize application and interview approach",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Interview Tips",
+                "url": "https://www.glassdoor.com/blog/interview-tips/"
+              }
+            ]
+          },
+          {
+            "id": "mr5",
+            "title": "System Design",
+            "description": "Learn to design scalable systems",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "System Design Primer",
+                "url": "https://github.com/donnemartin/system-design-primer"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "63a5af268346",
+      "user_id": "d93b7ffcdf3e",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T17:39:56.073187",
+      "input_data": {
+        "user_goals": [
+          "buil an apllication"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "1",
+          "current_role": "backend developer",
+          "age": "18",
+          "interests": [],
+          "income": "50000",
+          "expenses": "2000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "current_skills": [],
+          "priority_skills_to_learn": [
+            "JavaScript",
+            "Python",
+            "React",
+            "Node.js"
+          ],
+          "target_roles": [
+            {
+              "title": "Software Developer",
+              "description": "Develop and maintain software applications"
+            }
+          ],
+          "tasks": [
+            {
+              "id": "fb1",
+              "title": "Master JavaScript ES6+",
+              "description": "Learn modern JavaScript features and syntax",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Week 2",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "JavaScript Course",
+                  "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+                }
+              ]
+            },
+            {
+              "id": "fb2",
+              "title": "Git Version Control",
+              "description": "Master Git workflows and collaboration",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Week 1",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Git Handbook",
+                  "url": "https://guides.github.com/introduction/git-handbook/"
+                }
+              ]
+            },
+            {
+              "id": "fb3",
+              "title": "Portfolio Website",
+              "description": "Build and deploy personal portfolio",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Week 4",
+              "category": "Projects",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "GitHub Pages",
+                  "url": "https://pages.github.com/"
+                }
+              ]
+            },
+            {
+              "id": "fb4",
+              "title": "LinkedIn Optimization",
+              "description": "Update profile with new skills and projects",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Week 1",
+              "category": "Job Search",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "LinkedIn Guide",
+                  "url": "https://linkedin.com/help"
+                }
+              ]
+            },
+            {
+              "id": "fb5",
+              "title": "Coding Practice",
+              "description": "Solve basic algorithmic problems daily",
+              "phase": "Foundation Building",
+              "week_or_deadline": "Daily",
+              "category": "Interview Prep",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "LeetCode Easy",
+                  "url": "https://leetcode.com/problemset/"
+                }
+              ]
+            },
+            {
+              "id": "sa1",
+              "title": "React Framework",
+              "description": "Build interactive UIs with React",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Week 6",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "React Documentation",
+                  "url": "https://react.dev/learn"
+                }
+              ]
+            },
+            {
+              "id": "sa2",
+              "title": "Database Design",
+              "description": "Learn SQL and database fundamentals",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Week 5",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "SQL Tutorial",
+                  "url": "https://www.w3schools.com/sql/"
+                }
+              ]
+            },
+            {
+              "id": "sa3",
+              "title": "Full-Stack Application",
+              "description": "Build complete web application with backend",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Week 8",
+              "category": "Projects",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "MERN Stack Guide",
+                  "url": "https://www.mongodb.com/mern-stack"
+                }
+              ]
+            },
+            {
+              "id": "sa4",
+              "title": "Job Applications",
+              "description": "Apply to 5 positions weekly",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Ongoing",
+              "category": "Job Search",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Job Boards",
+                  "url": "https://indeed.com"
+                }
+              ]
+            },
+            {
+              "id": "sa5",
+              "title": "Mock Interviews",
+              "description": "Practice technical interviews",
+              "phase": "Skill Advancement",
+              "week_or_deadline": "Week 6",
+              "category": "Interview Prep",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Pramp",
+                  "url": "https://pramp.com"
+                }
+              ]
+            },
+            {
+              "id": "mr1",
+              "title": "Cloud Services",
+              "description": "Deploy applications using AWS/Azure",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 10",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "AWS Free Tier",
+                  "url": "https://aws.amazon.com/free/"
+                }
+              ]
+            },
+            {
+              "id": "mr2",
+              "title": "Testing & CI/CD",
+              "description": "Implement automated testing and deployment",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 11",
+              "category": "Skill Building",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Jest Documentation",
+                  "url": "https://jestjs.io/docs/getting-started"
+                }
+              ]
+            },
+            {
+              "id": "mr3",
+              "title": "Production Deployment",
+              "description": "Deploy scalable production application",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 12",
+              "category": "Projects",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Vercel Deployment",
+                  "url": "https://vercel.com/docs"
+                }
+              ]
+            },
+            {
+              "id": "mr4",
+              "title": "Interview Strategy",
+              "description": "Optimize application and interview approach",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 10",
+              "category": "Job Search",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "Interview Tips",
+                  "url": "https://www.glassdoor.com/blog/interview-tips/"
+                }
+              ]
+            },
+            {
+              "id": "mr5",
+              "title": "System Design",
+              "description": "Learn to design scalable systems",
+              "phase": "Market Ready",
+              "week_or_deadline": "Week 11",
+              "category": "Interview Prep",
+              "status": "pending",
+              "resources": [
+                {
+                  "title": "System Design Primer",
+                  "url": "https://github.com/donnemartin/system-design-primer"
+                }
+              ]
+            }
+          ]
+        },
+        "learning": {
+          "recommendation": "\ud83c\udf93 **Personalized Learning Strategy**\n\n**Skill Assessment**: \ud83c\udf31 BEGINNER - Starting your tech journey\n**Learning Path**: Foundation Building\n**Time Commitment**: \u26a1 FOCUSED - Steady progress with good momentum\n**Estimated Timeline**: 3-4 months per major skill\n**Market Value**: \ud83d\udcb5 MODERATE demand skills\n\n**Learning Style**: \ud83d\udd27 Hands-on learner: Build projects immediately, learn by doing\n\n**Current Portfolio**: Clean slate - unlimited potential!\n**Target Interests**: Explore trending technologies",
+          "course_suggestions": [
+            "\ud83c\udf86 CS50 Introduction to Computer Science (Harvard) - World-class foundation [100 hours]",
+            "\ud83d\udc0d Python for Everybody (Coursera) - Beginner-friendly programming [40 hours]",
+            "\ud83c\udf10 The Odin Project - Full-stack web development [600+ hours]",
+            "\ud83d\udcf1 Swift Playgrounds (Apple) - iOS development basics [20 hours]"
+          ]
+        }
+      },
+      "execution_time": 0.005339,
+      "errors": {
+        "wellness": "unsupported operand type(s) for -: 'float' and 'str'"
+      }
+    }
+  ],
+  "13564d095259": [
+    {
+      "id": "4f2f3dc9bdfd",
+      "user_id": "13564d095259",
+      "agent_type": "career",
+      "created_at": "2025-11-29T17:46:30.231383",
+      "input_data": {
+        "user_data": {
+          "skills": "c++, java, pythin, html",
+          "experience_years": 3,
+          "location": "coimbatore",
+          "goal": ""
+        },
+        "task_type": "skill_development",
+        "parameters": {}
+      },
+      "output_data": {
+        "current_skills": [
+          "c++",
+          "java",
+          "pythin",
+          "html"
+        ],
+        "priority_skills_to_learn": [
+          "JavaScript",
+          "Python",
+          "React",
+          "Node.js"
+        ],
+        "target_roles": [
+          {
+            "title": "Software Developer",
+            "description": "Develop and maintain software applications"
+          }
+        ],
+        "tasks": [
+          {
+            "id": "fb1",
+            "title": "Master JavaScript ES6+",
+            "description": "Learn modern JavaScript features and syntax",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 2",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "JavaScript Course",
+                "url": "https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+              }
+            ]
+          },
+          {
+            "id": "fb2",
+            "title": "Git Version Control",
+            "description": "Master Git workflows and collaboration",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Git Handbook",
+                "url": "https://guides.github.com/introduction/git-handbook/"
+              }
+            ]
+          },
+          {
+            "id": "fb3",
+            "title": "Portfolio Website",
+            "description": "Build and deploy personal portfolio",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 4",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "GitHub Pages",
+                "url": "https://pages.github.com/"
+              }
+            ]
+          },
+          {
+            "id": "fb4",
+            "title": "LinkedIn Optimization",
+            "description": "Update profile with new skills and projects",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Week 1",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LinkedIn Guide",
+                "url": "https://linkedin.com/help"
+              }
+            ]
+          },
+          {
+            "id": "fb5",
+            "title": "Coding Practice",
+            "description": "Solve basic algorithmic problems daily",
+            "phase": "Foundation Building",
+            "week_or_deadline": "Daily",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "LeetCode Easy",
+                "url": "https://leetcode.com/problemset/"
+              }
+            ]
+          },
+          {
+            "id": "sa1",
+            "title": "React Framework",
+            "description": "Build interactive UIs with React",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "React Documentation",
+                "url": "https://react.dev/learn"
+              }
+            ]
+          },
+          {
+            "id": "sa2",
+            "title": "Database Design",
+            "description": "Learn SQL and database fundamentals",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 5",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "SQL Tutorial",
+                "url": "https://www.w3schools.com/sql/"
+              }
+            ]
+          },
+          {
+            "id": "sa3",
+            "title": "Full-Stack Application",
+            "description": "Build complete web application with backend",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 8",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "MERN Stack Guide",
+                "url": "https://www.mongodb.com/mern-stack"
+              }
+            ]
+          },
+          {
+            "id": "sa4",
+            "title": "Job Applications",
+            "description": "Apply to 5 positions weekly",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Ongoing",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Job Boards",
+                "url": "https://indeed.com"
+              }
+            ]
+          },
+          {
+            "id": "sa5",
+            "title": "Mock Interviews",
+            "description": "Practice technical interviews",
+            "phase": "Skill Advancement",
+            "week_or_deadline": "Week 6",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Pramp",
+                "url": "https://pramp.com"
+              }
+            ]
+          },
+          {
+            "id": "mr1",
+            "title": "Cloud Services",
+            "description": "Deploy applications using AWS/Azure",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "AWS Free Tier",
+                "url": "https://aws.amazon.com/free/"
+              }
+            ]
+          },
+          {
+            "id": "mr2",
+            "title": "Testing & CI/CD",
+            "description": "Implement automated testing and deployment",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Skill Building",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Jest Documentation",
+                "url": "https://jestjs.io/docs/getting-started"
+              }
+            ]
+          },
+          {
+            "id": "mr3",
+            "title": "Production Deployment",
+            "description": "Deploy scalable production application",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 12",
+            "category": "Projects",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Vercel Deployment",
+                "url": "https://vercel.com/docs"
+              }
+            ]
+          },
+          {
+            "id": "mr4",
+            "title": "Interview Strategy",
+            "description": "Optimize application and interview approach",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 10",
+            "category": "Job Search",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "Interview Tips",
+                "url": "https://www.glassdoor.com/blog/interview-tips/"
+              }
+            ]
+          },
+          {
+            "id": "mr5",
+            "title": "System Design",
+            "description": "Learn to design scalable systems",
+            "phase": "Market Ready",
+            "week_or_deadline": "Week 11",
+            "category": "Interview Prep",
+            "status": "pending",
+            "resources": [
+              {
+                "title": "System Design Primer",
+                "url": "https://github.com/donnemartin/system-design-primer"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "30bb48be489c": [
+    {
+      "id": "f001c2fa819a",
+      "user_id": "30bb48be489c",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T21:15:41.992988",
+      "input_data": {
+        "user_goals": [
+          "get promoted to HR"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "4",
+          "current_role": "cloud engineer",
+          "age": "25",
+          "interests": [],
+          "income": "1000000",
+          "expenses": "49997",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "current_skills": [],
+          "priority_skills": [
+            "Node.js",
+            "Python",
+            "Java",
+            "Go"
+          ],
+          "recommended_roles": [
+            {
+              "title": "Senior Backend Engineer",
+              "description": "Develop scalable APIs and services for Remote companies",
+              "seniority_level": "Senior"
+            },
+            {
+              "title": "DevOps Engineer",
+              "description": "Automate deployment pipelines and manage cloud infrastructure",
+              "seniority_level": "Senior"
+            }
+          ],
+          "roadmap": {
+            "foundation": [
+              {
+                "id": "f1_backend_4_0",
+                "title": "Master Node.js",
+                "explanation": "Deep dive into Node.js through hands-on projects. Focus on backend fundamentals for senior level.",
+                "timeframe": "Week 1"
+              },
+              {
+                "id": "f2_backend_4_0",
+                "title": "Build Backend Portfolio for Remote",
+                "explanation": "Create 3-5 impressive backend projects targeting Remote market requirements and showcasing Node.js, Python.",
+                "timeframe": "Week 2-3"
+              },
+              {
+                "id": "f3_backend_4_0",
+                "title": "Professional Network in Remote",
+                "explanation": "Connect with backend professionals in Remote. Attend senior-level meetups and industry conferences.",
+                "timeframe": "Week 1-6"
+              },
+              {
+                "id": "f4_backend_4_0",
+                "title": "Senior Skills Assessment",
+                "explanation": "Evaluate current backend abilities against senior role requirements. Identify leadership and architecture gaps.",
+                "timeframe": "Week 1"
+              }
+            ],
+            "advancement": [
+              {
+                "id": "a1_backend_4_0",
+                "title": "Advanced Python",
+                "explanation": "Master Python for backend. Design scalable architectures and mentor others.",
+                "timeframe": "Month 2"
+              },
+              {
+                "id": "a2_backend_4_0",
+                "title": "Leadership & Mentoring",
+                "explanation": "Lead technical teams, mentor junior developers, and drive architectural decisions.",
+                "timeframe": "Month 2-4"
+              },
+              {
+                "id": "a3_backend_4_0",
+                "title": "Backend Certification",
+                "explanation": "Obtain advanced certification in backend technologies. Target Remote market requirements.",
+                "timeframe": "Month 3-4"
+              },
+              {
+                "id": "a4_backend_4_0",
+                "title": "Lead Open Source",
+                "explanation": "Lead or maintain {focus_area} open source projects to establish thought leadership.",
+                "timeframe": "Month 2-5"
+              }
+            ],
+            "market_ready": [
+              {
+                "id": "m1_backend_4_0",
+                "title": "Strategic Job Search in Remote",
+                "explanation": "Target 5-10 senior backend companies per week in Remote. Target leadership and architect positions.",
+                "timeframe": "Month 4-6"
+              },
+              {
+                "id": "m2_backend_4_0",
+                "title": "Senior Interview Preparation",
+                "explanation": "Practice backend-specific advanced system design, leadership scenarios, and technical architecture.",
+                "timeframe": "Month 4-5"
+              },
+              {
+                "id": "m3_backend_4_0",
+                "title": "Salary Strategy for Remote",
+                "explanation": "Research Remote market rates for senior backend roles. Prepare for senior-level negotiation tactics.",
+                "timeframe": "Month 5-6"
+              },
+              {
+                "id": "m4_backend_4_0",
+                "title": "Establish Professional Presence",
+                "explanation": "Speak at {focus_area} conferences and establish thought leadership in {location}.",
+                "timeframe": "Month 5-6"
+              }
+            ]
+          },
+          "recommended_courses": [
+            {
+              "title": "Node.js Microservices",
+              "platform": "Udemy",
+              "url": "https://www.udemy.com/course/microservices-with-node-js-and-react/",
+              "why_relevant": "Build scalable microservices architecture"
+            },
+            {
+              "title": "Spring Boot Masterclass",
+              "platform": "Infosys Springboard",
+              "url": "https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012683854313897984167_shared/overview",
+              "why_relevant": "Enterprise Java development with Spring"
+            },
+            {
+              "title": "Python FastAPI Development",
+              "platform": "TestDriven.io",
+              "url": "https://testdriven.io/courses/tdd-fastapi/",
+              "why_relevant": "Modern Python API development with FastAPI"
+            },
+            {
+              "title": "System Design Interview",
+              "platform": "Educative",
+              "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+              "why_relevant": "Critical for senior backend engineering interviews"
+            },
+            {
+              "title": "GraphQL Complete Guide",
+              "platform": "Udemy",
+              "url": "https://www.udemy.com/course/graphql-bootcamp/",
+              "why_relevant": "Modern API development with GraphQL"
+            },
+            {
+              "title": "GraphQL Complete Guide",
+              "platform": "Udemy",
+              "url": "https://www.udemy.com/course/graphql-bootcamp/",
+              "why_relevant": "Modern API development with GraphQL"
+            }
+          ]
+        },
+        "wellness": {
+          "overview": "Based on your moderate activity level and health goals, your primary focus should be maintaining current fitness and building strength. At 25 years old, you're in a great position to build sustainable wellness habits that will serve you long-term.",
+          "metrics": {
+            "bmi": 22.9,
+            "target_range": "18.5-24.9",
+            "daily_calories": 2594,
+            "calorie_adjustment": "maintenance",
+            "status": "optimal"
+          },
+          "weekly_plan": [
+            "**Monday**: Balanced workout - 30 min cardio + 30 min strength training",
+            "**Tuesday**: Yoga or Pilates - 45 min flow focusing on flexibility and core strength",
+            "**Wednesday**: Moderate cardio - 35 min running, cycling, or swimming",
+            "**Thursday**: Full-body strength training - 45 min compound movements",
+            "**Friday**: Functional fitness - 40 min real-world movement patterns",
+            "**Saturday**: Outdoor activity - Hiking, sports, or recreational fitness (60+ min)",
+            "**Sunday**: Gentle movement - Light stretching, walking, or restorative yoga"
+          ],
+          "nutrition_tips": [
+            "Eat protein with every meal (0.8-1g per kg body weight daily)",
+            "Include colorful vegetables in 2/3 of your meals",
+            "Stay hydrated with 8-10 glasses of water daily",
+            "Time carbohydrates around your workouts for optimal energy"
+          ],
+          "recommendation": "Your wellness journey focuses on maintaining current fitness and building strength. With consistent effort and the right approach, you can expect to see meaningful progress within 4-6 weeks."
+        },
+        "learning": {
+          "summary": "As a beginner learner in cloud engineer with 4 years of experience, you're Starting your learning journey with foundational concepts. Your hands-on learning style will guide our recommended approach to skill development.",
+          "current_level": "Beginner",
+          "learning_phases": [
+            {
+              "name": "Foundation",
+              "duration": "2-3 months",
+              "focus": "Core programming concepts and development environment setup",
+              "skills": [
+                "Programming fundamentals",
+                "Version control (Git)",
+                "Basic web technologies"
+              ]
+            },
+            {
+              "name": "Application",
+              "duration": "3-4 months",
+              "focus": "Building real projects and understanding software development lifecycle",
+              "skills": [
+                "Framework proficiency",
+                "Database basics",
+                "Testing fundamentals"
+              ]
+            },
+            {
+              "name": "Specialization",
+              "duration": "4-6 months",
+              "focus": "Deep dive into chosen technology stack and industry best practices",
+              "skills": [
+                "Advanced frameworks",
+                "System design",
+                "Performance optimization"
+              ]
+            }
+          ],
+          "course_recommendations": [
+            {
+              "title": "CS50: Introduction to Computer Science",
+              "provider": "Harvard (edX)",
+              "duration": "10 weeks",
+              "url": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
+              "description": "Foundational computer science concepts and programming principles"
+            },
+            {
+              "title": "System Design Interview Course",
+              "provider": "Educative",
+              "duration": "6 weeks",
+              "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+              "description": "Learn to design scalable systems for technical interviews"
+            },
+            {
+              "title": "AWS Solutions Architect",
+              "provider": "A Cloud Guru",
+              "duration": "8 weeks",
+              "url": "https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c03",
+              "description": "Master cloud architecture and AWS services for modern applications"
+            }
+          ],
+          "recommendation": "Based on your beginner level and hands on learning preference, focus on core programming concepts and development environment setup over the next 2-3 months. This structured approach will build the foundation for your long-term learning goals."
+        }
+      },
+      "execution_time": 0.001055,
+      "errors": {}
+    },
+    {
+      "id": "221847fdde6a",
+      "user_id": "30bb48be489c",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T23:08:13.992124",
+      "input_data": {
+        "user_goals": [
+          "get promoted to HR"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "5",
+          "current_role": "Full stack developer",
+          "age": "22",
+          "interests": [],
+          "income": "1200000",
+          "expenses": "20000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "situation_summary": "With 5 years of experience as a Full stack developer in Remote, you're positioned to get promoted to HR. Your backend expertise in  provides a strong foundation for senior-level opportunities.",
+          "target_roles": [
+            {
+              "title": "Senior Backend Engineer",
+              "why_fit": "Your 5+ years with  aligns perfectly with backend engineering roles"
+            },
+            {
+              "title": "Backend Team Lead",
+              "why_fit": "Natural progression from your current Full stack developer background with leadership potential"
+            }
+          ],
+          "roadmap_summary": [
+            "Lead backend architecture decisions and mentor junior developers",
+            "Contribute to open source projects in backend ecosystem",
+            "Obtain relevant certifications in ",
+            "Build strategic partnerships within Remote tech community",
+            "Develop thought leadership through technical writing or speaking"
+          ]
+        },
+        "wellness": {
+          "assessment": "With moderate activity levels at 22, maintaining overall wellness through balanced exercise and nutrition will support long-term health and energy levels for your professional goals.",
+          "health_metrics": {
+            "status": "Good",
+            "target_calories": 2000,
+            "recommended_exercise": "200+ min/week",
+            "focus_area": "general fitness"
+          },
+          "weekly_plan": [
+            "Monday: Balanced cardio + strength (45 min)",
+            "Tuesday: Yoga or Pilates for flexibility",
+            "Wednesday: Moderate cardio - running or cycling",
+            "Thursday: Full-body strength training",
+            "Friday: Functional fitness or sports activity",
+            "Saturday: Outdoor activity - hiking or recreation",
+            "Sunday: Gentle movement or complete rest"
+          ]
+        },
+        "learning": {
+          "profile_summary": "As an experienced Full stack developer with 5 years using full-stack development, your learning focus should shift toward architecture, leadership, and cutting-edge technologies that will position you for senior technical roles.",
+          "learning_phases": [
+            {
+              "name": "Innovation",
+              "duration": "2-3 months",
+              "focus": "Exploring emerging technologies and industry trends",
+              "outcomes": "Cutting-edge technology adoption, innovation mindset"
+            },
+            {
+              "name": "Strategy",
+              "duration": "3-4 months",
+              "focus": "Technical strategy and organizational impact",
+              "outcomes": "Architecture decision-making, technology evaluation"
+            },
+            {
+              "name": "Thought Leadership",
+              "duration": "Ongoing",
+              "focus": "Industry contribution and knowledge sharing",
+              "outcomes": "Conference speaking, open source contributions"
+            }
+          ],
+          "courses": [
+            {
+              "title": "System Design Interview",
+              "platform": "Educative",
+              "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+              "why_relevant": "Critical for senior backend engineering roles"
+            },
+            {
+              "title": "Microservices Architecture",
+              "platform": "Pluralsight",
+              "url": "https://www.pluralsight.com/courses/microservices-architecture",
+              "why_relevant": "Advanced architecture patterns for experienced developers"
+            },
+            {
+              "title": "Database Performance",
+              "platform": "O'Reilly",
+              "url": "https://www.oreilly.com/library/view/database-internals/9781492040330/",
+              "why_relevant": "Deep database knowledge for senior backend roles"
+            }
+          ]
+        }
+      },
+      "execution_time": 0.0,
+      "errors": {}
+    },
+    {
+      "id": "77ba10e981f5",
+      "user_id": "30bb48be489c",
+      "agent_type": "parallel",
+      "created_at": "2025-11-29T23:44:48.359365",
+      "input_data": {
+        "user_goals": [
+          "get promoted to HR"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "2",
+          "current_role": "software engineer",
+          "age": "20",
+          "interests": [],
+          "income": "1000000",
+          "expenses": "20000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "situation_summary": "With 2 years of experience as a software engineer in Remote, you're positioned to get promoted to HR. Your backend expertise in  provides a strong foundation for junior-level opportunities.",
+          "target_roles": [
+            {
+              "title": "Junior Backend Engineer",
+              "why_fit": "Your 2+ years with  aligns perfectly with backend engineering roles"
+            },
+            {
+              "title": "Backend Developer",
+              "why_fit": "Direct application of your backend skills in a development role"
+            }
+          ],
+          "roadmap_summary": [
+            "Master advanced backend patterns and best practices",
+            "Build 2-3 portfolio projects showcasing ",
+            "Network with backend professionals in Remote",
+            "Prepare for technical interviews and system design questions"
+          ]
+        },
+        "wellness": {
+          "assessment": "With moderate activity levels at 20, maintaining overall wellness through balanced exercise and nutrition will support long-term health and energy levels for your professional goals.",
+          "health_metrics": {
+            "status": "Good",
+            "target_calories": 2000,
+            "recommended_exercise": "200+ min/week",
+            "focus_area": "general fitness"
+          },
+          "weekly_plan": [
+            "Monday: Balanced cardio + strength (45 min)",
+            "Tuesday: Yoga or Pilates for flexibility",
+            "Wednesday: Moderate cardio - running or cycling",
+            "Thursday: Full-body strength training",
+            "Friday: Functional fitness or sports activity",
+            "Saturday: Outdoor activity - hiking or recreation",
+            "Sunday: Gentle movement or complete rest"
+          ]
+        },
+        "learning": {
+          "profile_summary": "With 2 years as a software engineer working with full-stack development, you're ready to deepen your expertise and expand into complementary technologies. This is the ideal time to specialize while maintaining breadth.",
+          "learning_phases": [
+            {
+              "name": "Skill Expansion",
+              "duration": "2-3 months",
+              "focus": "Broadening technical skills and learning new frameworks",
+              "outcomes": "Multi-technology proficiency, cross-functional understanding"
+            },
+            {
+              "name": "Architecture",
+              "duration": "3-4 months",
+              "focus": "System design and scalable application development",
+              "outcomes": "Design pattern mastery, performance optimization skills"
+            },
+            {
+              "name": "Leadership",
+              "duration": "4-5 months",
+              "focus": "Technical leadership and mentoring capabilities",
+              "outcomes": "Team collaboration, code review expertise"
+            }
+          ],
+          "courses": [
+            {
+              "title": "Full Stack Development",
+              "platform": "Coursera",
+              "url": "https://www.coursera.org/specializations/full-stack-react",
+              "why_relevant": "Comprehensive skills matching your current experience level"
+            },
+            {
+              "title": "Git & GitHub Mastery",
+              "platform": "Udemy",
+              "url": "https://www.udemy.com/course/git-and-github-bootcamp/",
+              "why_relevant": "Essential collaboration skills for any developer"
+            },
+            {
+              "title": "API Development",
+              "platform": "Pluralsight",
+              "url": "https://www.pluralsight.com/courses/rest-fundamentals",
+              "why_relevant": "Core skill for modern application development"
+            }
+          ]
+        }
+      },
+      "execution_time": 0.0,
+      "errors": {}
+    },
+    {
+      "id": "4c52a08391ad",
+      "user_id": "30bb48be489c",
+      "agent_type": "parallel",
+      "created_at": "2025-11-30T00:31:58.391972",
+      "input_data": {
+        "user_goals": [
+          "To become HR"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "5",
+          "current_role": "Cloud engineer",
+          "age": "20",
+          "interests": [],
+          "income": "750000",
+          "expenses": "2000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "situation_summary": "With 5 years of experience as a Cloud engineer in Remote, you're positioned to To become HR. Your backend expertise in  provides a strong foundation for senior-level opportunities.",
+          "target_roles": [
+            {
+              "title": "Senior Backend Engineer",
+              "why_fit": "Your 5+ years with  aligns perfectly with backend engineering roles"
+            },
+            {
+              "title": "Backend Team Lead",
+              "why_fit": "Natural progression from your current Cloud engineer background with leadership potential"
+            }
+          ],
+          "roadmap_summary": [
+            "Lead backend architecture decisions and mentor junior developers",
+            "Contribute to open source projects in backend ecosystem",
+            "Obtain relevant certifications in ",
+            "Build strategic partnerships within Remote tech community",
+            "Develop thought leadership through technical writing or speaking"
+          ]
+        },
+        "wellness": {
+          "assessment": "With moderate activity levels at 20, maintaining overall wellness through balanced exercise and nutrition will support long-term health and energy levels for your professional goals.",
+          "health_metrics": {
+            "status": "Good",
+            "target_calories": 2000,
+            "recommended_exercise": "200+ min/week",
+            "focus_area": "general fitness"
+          },
+          "weekly_plan": [
+            "Monday: Balanced cardio + strength (45 min)",
+            "Tuesday: Yoga or Pilates for flexibility",
+            "Wednesday: Moderate cardio - running or cycling",
+            "Thursday: Full-body strength training",
+            "Friday: Functional fitness or sports activity",
+            "Saturday: Outdoor activity - hiking or recreation",
+            "Sunday: Gentle movement or complete rest"
+          ]
+        },
+        "learning": {
+          "profile_summary": "As an experienced Cloud engineer with 5 years using full-stack development, your learning focus should shift toward architecture, leadership, and cutting-edge technologies that will position you for senior technical roles.",
+          "learning_phases": [
+            {
+              "name": "Innovation",
+              "duration": "2-3 months",
+              "focus": "Exploring emerging technologies and industry trends",
+              "outcomes": "Cutting-edge technology adoption, innovation mindset"
+            },
+            {
+              "name": "Strategy",
+              "duration": "3-4 months",
+              "focus": "Technical strategy and organizational impact",
+              "outcomes": "Architecture decision-making, technology evaluation"
+            },
+            {
+              "name": "Thought Leadership",
+              "duration": "Ongoing",
+              "focus": "Industry contribution and knowledge sharing",
+              "outcomes": "Conference speaking, open source contributions"
+            }
+          ],
+          "courses": [
+            {
+              "title": "System Design Interview",
+              "platform": "Educative",
+              "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+              "why_relevant": "Critical for senior backend engineering roles"
+            },
+            {
+              "title": "Microservices Architecture",
+              "platform": "Pluralsight",
+              "url": "https://www.pluralsight.com/courses/microservices-architecture",
+              "why_relevant": "Advanced architecture patterns for experienced developers"
+            },
+            {
+              "title": "Database Performance",
+              "platform": "O'Reilly",
+              "url": "https://www.oreilly.com/library/view/database-internals/9781492040330/",
+              "why_relevant": "Deep database knowledge for senior backend roles"
+            }
+          ]
+        }
+      },
+      "execution_time": 0.000383,
+      "errors": {}
+    },
+    {
+      "id": "1efcd511d1e9",
+      "user_id": "30bb48be489c",
+      "agent_type": "parallel",
+      "created_at": "2025-11-30T00:40:38.057865",
+      "input_data": {
+        "user_goals": [
+          "to become HR"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "4",
+          "current_role": "cloud engineer",
+          "age": "24",
+          "interests": [],
+          "income": "7500000",
+          "expenses": "50000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "situation_summary": "With 4 years of experience as a cloud engineer in Remote, you're positioned to to become HR. Your backend expertise in  provides a strong foundation for senior-level opportunities.",
+          "target_roles": [
+            {
+              "title": "Senior Backend Engineer",
+              "why_fit": "Your 4+ years with  aligns perfectly with backend engineering roles"
+            },
+            {
+              "title": "Backend Team Lead",
+              "why_fit": "Natural progression from your current cloud engineer background with leadership potential"
+            }
+          ],
+          "roadmap_summary": [
+            "Lead backend architecture decisions and mentor junior developers",
+            "Contribute to open source projects in backend ecosystem",
+            "Obtain relevant certifications in ",
+            "Build strategic partnerships within Remote tech community",
+            "Develop thought leadership through technical writing or speaking"
+          ]
+        },
+        "wellness": {
+          "assessment": "With moderate activity levels at 24, maintaining overall wellness through balanced exercise and nutrition will support long-term health and energy levels for your professional goals.",
+          "health_metrics": {
+            "status": "Good",
+            "target_calories": 2000,
+            "recommended_exercise": "200+ min/week",
+            "focus_area": "general fitness"
+          },
+          "weekly_plan": [
+            "Monday: Balanced cardio + strength (45 min)",
+            "Tuesday: Yoga or Pilates for flexibility",
+            "Wednesday: Moderate cardio - running or cycling",
+            "Thursday: Full-body strength training",
+            "Friday: Functional fitness or sports activity",
+            "Saturday: Outdoor activity - hiking or recreation",
+            "Sunday: Gentle movement or complete rest"
+          ]
+        },
+        "learning": {
+          "profile_summary": "As an experienced cloud engineer with 4 years using full-stack development, your learning focus should shift toward architecture, leadership, and cutting-edge technologies that will position you for senior technical roles.",
+          "learning_phases": [
+            {
+              "name": "Innovation",
+              "duration": "2-3 months",
+              "focus": "Exploring emerging technologies and industry trends",
+              "outcomes": "Cutting-edge technology adoption, innovation mindset"
+            },
+            {
+              "name": "Strategy",
+              "duration": "3-4 months",
+              "focus": "Technical strategy and organizational impact",
+              "outcomes": "Architecture decision-making, technology evaluation"
+            },
+            {
+              "name": "Thought Leadership",
+              "duration": "Ongoing",
+              "focus": "Industry contribution and knowledge sharing",
+              "outcomes": "Conference speaking, open source contributions"
+            }
+          ],
+          "courses": [
+            {
+              "title": "System Design Interview",
+              "platform": "Educative",
+              "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+              "why_relevant": "Critical for senior backend engineering roles"
+            },
+            {
+              "title": "Microservices Architecture",
+              "platform": "Pluralsight",
+              "url": "https://www.pluralsight.com/courses/microservices-architecture",
+              "why_relevant": "Advanced architecture patterns for experienced developers"
+            },
+            {
+              "title": "Database Performance",
+              "platform": "O'Reilly",
+              "url": "https://www.oreilly.com/library/view/database-internals/9781492040330/",
+              "why_relevant": "Deep database knowledge for senior backend roles"
+            }
+          ]
+        }
+      },
+      "execution_time": 0.0,
+      "errors": {}
+    },
+    {
+      "id": "c67b85ad0405",
+      "user_id": "30bb48be489c",
+      "agent_type": "parallel",
+      "created_at": "2025-11-30T00:45:21.732483",
+      "input_data": {
+        "user_goals": [
+          "to get promoted as HR"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "4",
+          "current_role": "Cloud Egnineer ",
+          "age": "40",
+          "interests": [],
+          "income": "5000000",
+          "expenses": "12000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "situation_summary": "With 4 years of experience as a Cloud Egnineer  in Remote, you're positioned to to get promoted as HR. Your backend expertise in  provides a strong foundation for senior-level opportunities.",
+          "target_roles": [
+            {
+              "title": "Senior Backend Engineer",
+              "why_fit": "Your 4+ years with  aligns perfectly with backend engineering roles"
+            },
+            {
+              "title": "Backend Team Lead",
+              "why_fit": "Natural progression from your current Cloud Egnineer  background with leadership potential"
+            }
+          ],
+          "key_skills": [
+            "System architecture and backend design patterns",
+            "Technical leadership and mentoring abilities",
+            "Performance optimization and scalability",
+            "Cross-functional collaboration and communication",
+            "Strategic technology evaluation and decision-making"
+          ],
+          "roadmap_summary": [
+            "Lead backend architecture decisions and mentor junior developers",
+            "Contribute to open source projects in backend ecosystem",
+            "Obtain relevant certifications in ",
+            "Build strategic partnerships within Remote tech community",
+            "Develop thought leadership through technical writing or speaking"
+          ]
+        },
+        "wellness": {
+          "assessment": "With moderate activity levels at 40, maintaining overall wellness through balanced exercise and nutrition will support long-term health and energy levels for your professional goals.",
+          "health_metrics": {
+            "status": "Good",
+            "target_calories": 1900,
+            "recommended_exercise": "200+ min/week",
+            "focus_area": "general fitness"
+          },
+          "weekly_plan": [
+            "Monday: Balanced cardio + strength (45 min)",
+            "Tuesday: Yoga or Pilates for flexibility",
+            "Wednesday: Moderate cardio - running or cycling",
+            "Thursday: Full-body strength training",
+            "Friday: Functional fitness or sports activity",
+            "Saturday: Outdoor activity - hiking or recreation",
+            "Sunday: Gentle movement or complete rest"
+          ]
+        },
+        "learning": {
+          "profile_summary": "As an experienced Cloud Egnineer  with 4 years using full-stack development, your learning focus should shift toward architecture, leadership, and cutting-edge technologies that will position you for senior technical roles.",
+          "learning_phases": [
+            {
+              "name": "Innovation",
+              "duration": "2-3 months",
+              "focus": "Exploring emerging technologies and industry trends",
+              "outcomes": "Cutting-edge technology adoption, innovation mindset"
+            },
+            {
+              "name": "Strategy",
+              "duration": "3-4 months",
+              "focus": "Technical strategy and organizational impact",
+              "outcomes": "Architecture decision-making, technology evaluation"
+            },
+            {
+              "name": "Thought Leadership",
+              "duration": "Ongoing",
+              "focus": "Industry contribution and knowledge sharing",
+              "outcomes": "Conference speaking, open source contributions"
+            }
+          ],
+          "courses": [
+            {
+              "title": "System Design Interview",
+              "platform": "Educative",
+              "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+              "why_relevant": "Critical for senior backend engineering roles"
+            },
+            {
+              "title": "Microservices Architecture",
+              "platform": "Pluralsight",
+              "url": "https://www.pluralsight.com/courses/microservices-architecture",
+              "why_relevant": "Advanced architecture patterns for experienced developers"
+            },
+            {
+              "title": "Database Performance",
+              "platform": "O'Reilly",
+              "url": "https://www.oreilly.com/library/view/database-internals/9781492040330/",
+              "why_relevant": "Deep database knowledge for senior backend roles"
+            }
+          ]
+        }
+      },
+      "execution_time": 0.0,
+      "errors": {}
+    },
+    {
+      "id": "e3ab0231602a",
+      "user_id": "30bb48be489c",
+      "agent_type": "parallel",
+      "created_at": "2025-11-30T00:54:23.955311",
+      "input_data": {
+        "user_goals": [
+          "Become a HR"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "5",
+          "current_role": "Cloud engineer",
+          "age": "63",
+          "interests": [],
+          "income": "8000000",
+          "expenses": "20000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "situation_summary": "With 5 years of experience as a Cloud engineer in Remote, you're positioned to Become a HR. Your backend expertise in  provides a strong foundation for senior-level opportunities.",
+          "target_roles": [
+            {
+              "title": "Senior Backend Engineer",
+              "why_fit": "Your 5+ years with  aligns perfectly with backend engineering roles"
+            },
+            {
+              "title": "Backend Team Lead",
+              "why_fit": "Natural progression from your current Cloud engineer background with leadership potential"
+            }
+          ],
+          "key_skills": [
+            "System architecture and backend design patterns",
+            "Technical leadership and mentoring abilities",
+            "Performance optimization and scalability",
+            "Cross-functional collaboration and communication"
+          ],
+          "roadmap_summary": [
+            "Lead backend architecture decisions and mentor junior developers",
+            "Contribute to open source projects in backend ecosystem",
+            "Obtain relevant certifications in ",
+            "Build strategic partnerships within Remote tech community"
+          ]
+        },
+        "wellness": {
+          "assessment": "With moderate activity levels at 63, maintaining overall wellness through balanced exercise and nutrition will support long-term health and energy levels for your professional goals.",
+          "health_metrics": {
+            "status": "Good",
+            "target_calories": 1900,
+            "bmi_range": "20-25 (healthy aging)"
+          },
+          "weekly_plan": [
+            "Balanced cardio and strength (4x/week)",
+            "Flexibility and mobility work (2x/week)",
+            "Outdoor activities for variety",
+            "Consistent sleep and nutrition habits"
+          ]
+        },
+        "learning": {
+          "profile_summary": "As an experienced Cloud engineer with 5 years using full-stack development, your learning focus should shift toward architecture, leadership, and cutting-edge technologies that will position you for senior technical roles.",
+          "learning_phases": [
+            {
+              "name": "Innovation",
+              "duration": "2-3 months",
+              "focus": "Exploring emerging technologies and industry trends"
+            },
+            {
+              "name": "Strategy",
+              "duration": "3-4 months",
+              "focus": "Technical strategy and organizational impact"
+            },
+            {
+              "name": "Leadership",
+              "duration": "Ongoing",
+              "focus": "Industry contribution and knowledge sharing"
+            }
+          ],
+          "courses": [
+            {
+              "title": "System Design Interview",
+              "platform": "Educative",
+              "why_relevant": "Scalable architecture patterns and best practices"
+            },
+            {
+              "title": "Full Stack Development",
+              "platform": "Coursera",
+              "why_relevant": "End-to-end application development skills"
+            },
+            {
+              "title": "Git & DevOps Fundamentals",
+              "platform": "Pluralsight",
+              "why_relevant": "Essential collaboration and deployment workflows"
+            }
+          ]
+        }
+      },
+      "execution_time": 0.0,
+      "errors": {}
+    }
+  ],
+  "b64e7524929f": [
+    {
+      "id": "cf57e06ad7f9",
+      "user_id": "b64e7524929f",
+      "agent_type": "parallel",
+      "created_at": "2025-11-30T12:53:53.584052",
+      "input_data": {
+        "user_goals": [
+          "To become HR"
+        ],
+        "user_data": {
+          "skills": [],
+          "experience_years": "2",
+          "current_role": "Software Developer",
+          "age": "24",
+          "interests": [],
+          "income": "5000000",
+          "expenses": "50000",
+          "activity_level": "moderate",
+          "learning_style": "hands_on"
+        },
+        "task_types": {
+          "career": "milestone_analysis",
+          "wellness": "goal_planning",
+          "learning": "skill_development"
+        },
+        "parameters": {
+          "time_horizon": "6_months",
+          "priority": "high"
+        }
+      },
+      "output_data": {
+        "career": {
+          "situation_summary": "With 2 years of experience as a Software Developer in Remote, you're positioned to To become HR. Your backend expertise in  provides a strong foundation for junior-level opportunities.",
+          "target_roles": [
+            {
+              "title": "Junior Backend Engineer",
+              "why_fit": "Your 2+ years with  aligns perfectly with backend engineering roles"
+            },
+            {
+              "title": "Backend Developer",
+              "why_fit": "Direct application of your backend skills in a development role"
+            }
+          ],
+          "key_skills": [
+            "Advanced backend frameworks and libraries",
+            "Version control and collaborative development",
+            "Testing and debugging methodologies",
+            "Problem-solving and algorithmic thinking"
+          ],
+          "roadmap_summary": [
+            "Master advanced backend patterns and best practices",
+            "Build 2-3 portfolio projects showcasing ",
+            "Network with backend professionals in Remote"
+          ]
+        },
+        "wellness": {
+          "assessment": "With moderate activity levels at 24, maintaining overall wellness through balanced exercise and nutrition will support long-term health and energy levels for your professional goals.",
+          "health_metrics": {
+            "status": "Good",
+            "target_calories": 2000,
+            "bmi_range": "18.5-24.9 (optimal)"
+          },
+          "weekly_plan": [
+            "Balanced cardio and strength (4x/week)",
+            "Flexibility and mobility work (2x/week)",
+            "Outdoor activities for variety",
+            "Consistent sleep and nutrition habits"
+          ]
+        },
+        "learning": {
+          "profile_summary": "With 2 years as a Software Developer working with full-stack development, you're ready to deepen your expertise and expand into complementary technologies. This is the ideal time to specialize while maintaining breadth.",
+          "learning_phases": [
+            {
+              "name": "Skill Expansion",
+              "duration": "2-3 months",
+              "focus": "Broadening technical skills and learning new frameworks"
+            },
+            {
+              "name": "Architecture",
+              "duration": "3-4 months",
+              "focus": "System design and scalable application development"
+            }
+          ],
+          "courses": [
+            {
+              "title": "System Design Interview",
+              "platform": "Educative",
+              "why_relevant": "Scalable architecture patterns and best practices"
+            },
+            {
+              "title": "Full Stack Development",
+              "platform": "Coursera",
+              "why_relevant": "End-to-end application development skills"
+            },
+            {
+              "title": "Git & DevOps Fundamentals",
+              "platform": "Pluralsight",
+              "why_relevant": "Essential collaboration and deployment workflows"
+            }
+          ]
+        }
+      },
+      "execution_time": 0.010224,
+      "errors": {}
+    }
+  ]
+}

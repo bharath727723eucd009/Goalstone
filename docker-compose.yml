@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./Backend
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./Backend/users.json:/app/users.json
+    environment:
+      - PYTHONPATH=/app
+
+  frontend:
+    build: ./Frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
